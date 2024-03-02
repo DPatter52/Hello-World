@@ -12,7 +12,4 @@ Here's a short video of me going over this program a little more:
 * Python 3.11 64-bit
 * Git / GitHub
 
-# Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
