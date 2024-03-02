@@ -4,7 +4,7 @@ This is a small Hello World program. I made this to highlight Visual Studio Code
 
 
 Here's a short video of me going over this program a little more:
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/phtRAsv0iTo)
 
 # Development Environment
 
